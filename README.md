@@ -1,5 +1,4 @@
-Bonjour,
-Je viens tout juste de créer mon profile github.
+Bonjour, je viens tout juste de créer mon profile github.
 Je suis étudiant en première année de B.U.T. informatique
 
 <!---
