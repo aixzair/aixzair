@@ -1,5 +1,4 @@
-Bonjour, je viens tout juste de créer mon profile github.
-Je suis étudiant en première année de B.U.T. informatique
+Bonjour, je suis actuellement étudiant en deuxième année de B.U.T. informatique.
 
 <!---
 aixzair/aixzair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
